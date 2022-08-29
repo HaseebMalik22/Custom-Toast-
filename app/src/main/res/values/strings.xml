@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">customToast</string>
+
+    <string name="SENT">MESSAGE SENT SUCCESSFULLY</string>
+</resources>
